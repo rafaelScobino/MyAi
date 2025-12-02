@@ -1,1 +1,1 @@
-# MyAI -Lucy
+# XOR-AI testing
